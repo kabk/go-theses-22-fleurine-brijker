@@ -332,7 +332,7 @@ main{
   /* paragraph style */
   margin: 0 0 0 0 ;
   font-family: var(--font-family-p);
-  font-size: calc(var(--font-size)*0.9);
+  font-size: calc(var(--font-size)*1);
   }
 
   ol.footnotes-list , li{
